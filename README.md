@@ -6,10 +6,14 @@ This project involves the analysis of the IPL (Indian Premier League) 2024 seaso
 
 # Tools and Libraries Used
 Python 3.x: Programming language used for the analysis.
+
 NumPy: For numerical operations and handling arrays.
+
 Pandas: For data manipulation and analysis.
+
 Jupyter Notebook: An interactive environment used to run and document the analysis.
 Data
+
 The dataset used in this analysis contains detailed information about IPL 2024 matches, including:
 
 Match details (date, teams, venue, etc.)
